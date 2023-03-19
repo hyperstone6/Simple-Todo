@@ -1,3 +1,3 @@
 # Simple-Todo
 
-#### Todo app with save function using localStorage
+#### Todo app with save and reload functionality using localStorage
